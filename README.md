@@ -1,4 +1,3 @@
-# hello-world
-This is my first repository.
+# Web Dev Portfolio
 
-Hi, I'm new to programming and am excited to learn as much as I can. 
+Hello, my name is Fabia and this is my portfolio of multiple projects I have completed during the Web Dev Bootcamp course on Udemy. 
